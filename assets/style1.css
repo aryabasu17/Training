@@ -208,6 +208,7 @@ a:hover{
     /* height: 230px; */
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
     border-radius: 0 0 10px 10px;
 
 }
